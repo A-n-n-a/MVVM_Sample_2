@@ -1,0 +1,44 @@
+PODS:
+  - IQKeyboardManager (6.5.5)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxLocalizer (1.5.0):
+    - RxCocoa (~> 5.1.1)
+    - RxSwift (~> 5.1.1)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - RxTheme (4.1.1):
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - "UITextView+Placeholder (1.4.0)"
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - RxLocalizer
+  - RxTheme (~> 4.0)
+  - "UITextView+Placeholder"
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManager
+    - RxCocoa
+    - RxLocalizer
+    - RxRelay
+    - RxSwift
+    - RxTheme
+    - "UITextView+Placeholder"
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxLocalizer: 7db2f964848a885d996d36f47f0e88a477cd627a
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  RxTheme: 7cda2f036363a0b620cf07b3480cbbbbb00c1d25
+  "UITextView+Placeholder": d7b0c400921f66523f3a85d74f774512e14f6502
+
+PODFILE CHECKSUM: c18e883f3627af69345cb757396fd3b595439d8b
+
+COCOAPODS: 1.9.3
